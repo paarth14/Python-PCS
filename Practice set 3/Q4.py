@@ -4,4 +4,4 @@
 # print(string.find(" "))
 
 string = input("Enter a String: ")
-print(string.find("  "))
+print(string.find(" "))

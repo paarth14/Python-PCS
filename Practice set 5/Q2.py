@@ -21,3 +21,14 @@ set1.add(num7)
 set1.add(num8)
 
 print(set1)
+
+# OUTPUT :-
+# Enter a number: 1
+# Enter a number: 22
+# Enter a number: 3
+# Enter a number: 22
+# Enter a number: 1
+# Enter a number: 5
+# Enter a number: 6
+# Enter a number: 7
+# {1, 3, 5, 6, 7, 22}

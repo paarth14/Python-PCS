@@ -8,3 +8,7 @@ mydict = {
 }
 
 print(list(mydict.items()))
+
+print("Options are: ", mydict.keys())
+a = input("Enter the Hindi Word: ")
+print("The meaning of the word is: ", mydict[a]) 

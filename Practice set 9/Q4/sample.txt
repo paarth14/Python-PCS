@@ -1,0 +1,3 @@
+Donkey is an Hardworking Animal.
+Donkey do sleep
+Donkey do eat and repeat.

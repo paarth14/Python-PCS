@@ -5,7 +5,7 @@
 ##
 @Practice set 3 :- https://github.com/paarth14/Python-Tutorials-CWH/tree/main/Practice%20set%203
 ##
-@Practice set 4 :- https://github.com/paarth14/Python-Tutorials-CWH/tree/main/Practice%20set%204 target="_blank"
+@Practice set 4 :- https://github.com/paarth14/Python-Tutorials-CWH/tree/main/Practice%20set%204 
 ##
 @Practice set 5 :- https://github.com/paarth14/Python-Tutorials-CWH/tree/main/Practice%20set%205
 ##

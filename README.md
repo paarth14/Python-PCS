@@ -1,3 +1,3 @@
 # Python Tutorials CWH
 
-@Practice set 1
+@Practice set 2

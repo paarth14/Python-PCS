@@ -1,4 +1,4 @@
-# Python Tutorials CWH
+# Python PCS & Projects
 
 ##
 @Practice set 2 :- https://github.com/paarth14/Python-Tutorials-CWH/tree/main/Practice%20set%202
